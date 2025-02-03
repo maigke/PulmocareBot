@@ -1,5 +1,3 @@
-# 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
-
 from openai import OpenAI
 import os
 
